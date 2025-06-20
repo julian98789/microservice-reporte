@@ -30,5 +30,4 @@ public class UseCasesConfig {
                 return new BootcampReportUseCase(persistencePort );
         }
 
-
 }

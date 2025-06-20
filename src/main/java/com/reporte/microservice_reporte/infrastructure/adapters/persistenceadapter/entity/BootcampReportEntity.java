@@ -21,3 +21,4 @@ public class BootcampReportEntity {
     private Long capacityCount;
     private Long totalTechnologyCount;
 }
+

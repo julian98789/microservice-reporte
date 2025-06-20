@@ -6,4 +6,5 @@ import reactor.core.publisher.Mono;
 public interface IBootcampReportServicePort {
 
     Mono<BootcampReport> saveBootcampReport(BootcampReport report);
+
 }
